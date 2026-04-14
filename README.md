@@ -26,5 +26,5 @@ This project analyzes E-commerce sales data to identify key performance indicato
 * **Regional Performance:** Sales distribution across different cities/states.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Sales](Sales%20Performance.png)
 
